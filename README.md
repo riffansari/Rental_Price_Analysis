@@ -7,10 +7,15 @@ Using Multiple Linear Regression in Python, the project answers one main researc
 
 ## Analysis Performed
 Data cleaning and preparation
+
 Descriptive statistics
+
 Correlation analysis
+
 Hypothesis testing using t-test
+
 Multiple linear regression
+
 Multicollinearity analysis using VIF
 
 ## Tools & Libraries
