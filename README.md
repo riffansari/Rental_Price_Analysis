@@ -15,10 +15,16 @@ Multicollinearity analysis using VIF
 
 ## Tools & Libraries
 Python
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
+
 Statsmodels
+
 SciPy
 
